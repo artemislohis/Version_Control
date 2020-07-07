@@ -1,0 +1,3 @@
+F:/Version_Control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Version_Control/cmake-build-debug/CMakeFiles/Version_Control.dir
+F:/Version_Control/cmake-build-debug/CMakeFiles/edit_cache.dir
